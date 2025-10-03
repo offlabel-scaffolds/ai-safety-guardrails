@@ -1,0 +1,35 @@
+{
+  "name": "ai-safety-guardrails",
+  "description": "Safety filters, content moderation, and adversarial testing framework",
+  "tech": [
+    "OpenAI",
+    "Python",
+    "FastAPI",
+    "Redis"
+  ],
+  "categories": [
+    "ai-ml",
+    "backend"
+  ],
+  "usecases": [
+    "ai-ml",
+    "enterprise"
+  ],
+  "maturity": "stable",
+  "complexity": "intermediate",
+  "features": [
+    "content-moderation",
+    "safety-filters",
+    "adversarial-testing",
+    "unit-tests",
+    "docker"
+  ],
+  "hasDemo": false,
+  "hasCLI": false,
+  "securityFeatures": [
+    "content-filtering",
+    "input-validation",
+    "prompt-injection-protection"
+  ],
+  "lastUpdated": "2025-01-03"
+}
