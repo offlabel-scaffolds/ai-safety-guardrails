@@ -40,7 +40,7 @@ docker build -t ${scaffold.name} .
 - FastAPI
 - Redis
 
-## ️ Architecture
+## Architecture
 
 ```
 ai-safety-guardrails/
@@ -83,7 +83,6 @@ pytest tests/unit
 - Metrics collection
 - Error tracking
 - Performance monitoring
-
 
 ## Deployment
 
@@ -128,5 +127,4 @@ MIT - Built by Augustus Rivers at Offlabel Design
 ---
 
 **Maturity:** stable | **Complexity:** intermediate | **Last Updated:** 2025-01-03
-
 
